@@ -37,7 +37,8 @@ Driving license - car: yes
 
 **Education**
 
-
+**2013 Lebanese International University Beirut – Lebanon
+BS of Business Management** 
 
 **2001 – 2004 Ibin Sina College Beirut – Lebanon
 Technical Baccalaureate in Marketing and Accounting**
