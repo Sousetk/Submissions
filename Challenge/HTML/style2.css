@@ -1,0 +1,36 @@
+
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+.vertical-menu {
+    width: 200px;
+  }
+  
+  .vertical-menu a {
+    background-color: rgb(6, 233, 221);
+    color: black; 
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: palevioletred;
+  }
+  
+  .vertical-menu a.active {
+    background-color: blueviolet;
+    color: white;
+  }
+   <head>
+<style>
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
+</head> 
